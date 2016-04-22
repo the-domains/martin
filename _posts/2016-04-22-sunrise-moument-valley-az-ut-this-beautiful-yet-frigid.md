@@ -1,14 +1,16 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
 description: 'Sunrise: Moument Valley, AZ-UT. This beautiful, yet frigid, landscape stretches before Jessie Adams and I as the sun crests over the labyrinthine stoneworks of mesas, plateaus, and spires. '
-datePublished: '2016-04-22T21:14:33.563Z'
-dateModified: '2016-04-22T21:14:30.965Z'
+datePublished: '2016-04-22T21:35:30.509Z'
+dateModified: '2016-04-22T21:23:44.678Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-22-sunrise-moument-valley-az-ut-this-beautiful-yet-frigid.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,10 +18,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-22-sunrise-moument-valley-az-ut-this-beautiful-yet-frigid.md
-published: true
 url: sunrise-moument-valley-az-ut-this-beautiful-yet-frigid/index.html
-_type: Article
+_type: Blurb
 
 ---
 Sunrise: Moument Valley, AZ-UT. This beautiful, yet frigid, landscape stretches before Jessie Adams and I as the sun crests over the labyrinthine stoneworks of mesas, plateaus, and spires.
